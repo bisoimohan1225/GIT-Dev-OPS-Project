@@ -1,1 +1,3 @@
 hello this is for testing file only
+
+and updated this test file to check git diff command
