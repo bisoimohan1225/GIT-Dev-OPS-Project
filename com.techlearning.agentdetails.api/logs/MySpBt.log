@@ -1,0 +1,226 @@
+[2021-01-21T13:55:39.039Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting AgentAPI using Java 15 on Mohans-MacBook-Pro.local with PID 1361 (/Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api/target/classes started by mohanbisoi in /Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api)
+[2021-01-21T13:55:39.039Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-21T13:55:40.040Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-21T13:55:40.040Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+[2021-01-21T13:55:41.041Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8086 (http)
+[2021-01-21T13:55:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8086"]
+[2021-01-21T13:55:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-21T13:55:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-21T13:55:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-21T13:55:41.041Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 1834 ms
+[2021-01-21T13:55:41.041Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-21T13:55:41.041Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.27.Final
+[2021-01-21T13:55:41.041Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-21T13:55:42.042Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-21T13:55:42.042Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-21T13:55:42.042Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2021-01-21T13:55:43.043Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-21T13:55:43.043Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T13:55:43.043Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-21T13:55:43.043Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-21T13:55:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8086"]
+[2021-01-21T13:55:43.043Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8086 (http) with context path ''
+[2021-01-21T13:55:43.043Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started AgentAPI in 9.988 seconds (JVM running for 11.008)
+[2021-01-21T14:11:24.024Z] [com.zaxxer.hikari.pool.HikariPool$HouseKeeper] [HikariPool-1 housekeeper] [787] [WARN ] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m41s307ms).
+[2021-01-21T14:18:53.053Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8086-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-21T14:18:53.053Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-21T14:18:53.053Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [547] [INFO ] Completed initialization in 6 ms
+[2021-01-21T14:22:46.046Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting AgentAPI using Java 15 on Mohans-MacBook-Pro.local with PID 1508 (/Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api/target/classes started by mohanbisoi in /Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api)
+[2021-01-21T14:22:46.046Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-21T14:22:47.047Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-21T14:22:47.047Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 11 ms. Found 0 JPA repository interfaces.
+[2021-01-21T14:22:47.047Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8086 (http)
+[2021-01-21T14:22:47.047Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8086"]
+[2021-01-21T14:22:47.047Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-21T14:22:47.047Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-21T14:22:47.047Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-21T14:22:47.047Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 1827 ms
+[2021-01-21T14:22:48.048Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-21T14:22:48.048Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.27.Final
+[2021-01-21T14:22:48.048Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-21T14:22:48.048Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-21T14:22:49.049Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-21T14:22:49.049Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2021-01-21T14:22:49.049Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-21T14:22:49.049Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T14:22:49.049Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-21T14:22:49.049Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-21T14:22:50.050Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8086"]
+[2021-01-21T14:22:50.050Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8086 (http) with context path ''
+[2021-01-21T14:22:50.050Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started AgentAPI in 9.751 seconds (JVM running for 10.806)
+[2021-01-21T14:24:37.037Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8086-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-21T14:24:37.037Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-21T14:24:37.037Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [547] [INFO ] Completed initialization in 2 ms
+[2021-01-21T14:32:17.017Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021-01-21T14:32:17.017Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [SpringContextShutdownHook] [651] [INFO ] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T14:32:17.017Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [350] [INFO ] HikariPool-1 - Shutdown initiated...
+[2021-01-21T14:32:17.017Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [352] [INFO ] HikariPool-1 - Shutdown completed.
+[2021-01-21T14:37:27.027Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting AgentAPI using Java 15 on Mohans-MacBook-Pro.local with PID 1529 (/Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api/target/classes started by mohanbisoi in /Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api)
+[2021-01-21T14:37:27.027Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-21T14:37:28.028Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-21T14:37:28.028Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+[2021-01-21T14:37:28.028Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8086 (http)
+[2021-01-21T14:37:28.028Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8086"]
+[2021-01-21T14:37:28.028Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-21T14:37:28.028Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-21T14:37:29.029Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-21T14:37:29.029Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 1592 ms
+[2021-01-21T14:37:29.029Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-21T14:37:29.029Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.27.Final
+[2021-01-21T14:37:29.029Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-21T14:37:29.029Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-21T14:37:30.030Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-21T14:37:30.030Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2021-01-21T14:37:30.030Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-21T14:37:30.030Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T14:37:30.030Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-21T14:37:30.030Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-21T14:37:30.030Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8086"]
+[2021-01-21T14:37:31.031Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8086 (http) with context path ''
+[2021-01-21T14:37:31.031Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started AgentAPI in 9.084 seconds (JVM running for 9.995)
+[2021-01-21T14:46:42.042Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021-01-21T14:46:42.042Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [SpringContextShutdownHook] [651] [INFO ] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T14:46:42.042Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [350] [INFO ] HikariPool-1 - Shutdown initiated...
+[2021-01-21T14:46:42.042Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [352] [INFO ] HikariPool-1 - Shutdown completed.
+[2021-01-21T14:46:55.055Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting AgentAPI using Java 15 on Mohans-MacBook-Pro.local with PID 1642 (/Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api/target/classes started by mohanbisoi in /Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api)
+[2021-01-21T14:46:55.055Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-21T14:46:57.057Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-21T14:46:57.057Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
+[2021-01-21T14:46:58.058Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8086 (http)
+[2021-01-21T14:46:58.058Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8086"]
+[2021-01-21T14:46:58.058Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-21T14:46:58.058Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-21T14:46:58.058Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-21T14:46:58.058Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 2352 ms
+[2021-01-21T14:46:58.058Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-21T14:46:58.058Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.27.Final
+[2021-01-21T14:46:58.058Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-21T14:46:59.059Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-21T14:46:59.059Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-21T14:46:59.059Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2021-01-21T14:47:00.000Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-21T14:47:00.000Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T14:47:00.000Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-21T14:47:00.000Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-21T14:47:01.001Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8086"]
+[2021-01-21T14:47:01.001Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8086 (http) with context path ''
+[2021-01-21T14:47:01.001Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started AgentAPI in 10.817 seconds (JVM running for 11.523)
+[2021-01-21T14:47:19.019Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8086-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-21T14:47:19.019Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-21T14:47:19.019Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [547] [INFO ] Completed initialization in 3 ms
+[2021-01-21T14:49:50.050Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021-01-21T14:49:50.050Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [SpringContextShutdownHook] [651] [INFO ] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T14:49:50.050Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [350] [INFO ] HikariPool-1 - Shutdown initiated...
+[2021-01-21T14:49:50.050Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [352] [INFO ] HikariPool-1 - Shutdown completed.
+[2021-01-21T15:00:48.048Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting AgentAPI using Java 15 on Mohans-MacBook-Pro.local with PID 1746 (/Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api/target/classes started by mohanbisoi in /Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api)
+[2021-01-21T15:00:48.048Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-21T15:00:49.049Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-21T15:00:49.049Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
+[2021-01-21T15:00:49.049Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8086 (http)
+[2021-01-21T15:00:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8086"]
+[2021-01-21T15:00:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-21T15:00:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-21T15:00:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-21T15:00:49.049Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 1469 ms
+[2021-01-21T15:00:50.050Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-21T15:00:50.050Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.25.Final
+[2021-01-21T15:00:50.050Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-21T15:00:50.050Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-21T15:00:50.050Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-21T15:00:50.050Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2021-01-21T15:00:51.051Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-21T15:00:51.051Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T15:00:51.051Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-21T15:00:51.051Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-21T15:00:51.051Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8086"]
+[2021-01-21T15:00:51.051Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8086 (http) with context path ''
+[2021-01-21T15:00:51.051Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started AgentAPI in 8.815 seconds (JVM running for 9.718)
+[2021-01-21T15:02:14.014Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8086-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-21T15:02:14.014Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-21T15:02:14.014Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-1] [547] [INFO ] Completed initialization in 2 ms
+[2021-01-21T15:03:00.000Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8086-exec-5] [175] [INFO ] Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030xef0x8e0xb10xc5(0x03A_0xfc0x85(D0x990x100xc10xd50xd1:M0x8a0x940xd40x970xf70xb10x140xd40x130xb7lF0x92]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:417)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:261)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-01-21T15:03:00.000Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8086-exec-6] [175] [INFO ] Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x03]0x860xf50xe60x020xba@)0x18i0xefw0x8e0xbf0xaf0x97M0xb5NR0xce0xe70xaf0xa10x8cx0x1e0xe00x9d0xee0xfaV]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:417)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:261)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-01-21T15:07:23.023Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021-01-21T15:07:23.023Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [SpringContextShutdownHook] [651] [INFO ] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T15:07:23.023Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [350] [INFO ] HikariPool-1 - Shutdown initiated...
+[2021-01-21T15:07:23.023Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [352] [INFO ] HikariPool-1 - Shutdown completed.
+[2021-01-21T15:13:13.013Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting AgentAPI using Java 15 on Mohans-MacBook-Pro.local with PID 1802 (/Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api/target/classes started by mohanbisoi in /Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api)
+[2021-01-21T15:13:13.013Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-21T15:13:14.014Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-21T15:13:14.014Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+[2021-01-21T15:13:15.015Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8086 (http)
+[2021-01-21T15:13:15.015Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8086"]
+[2021-01-21T15:13:15.015Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-21T15:13:15.015Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-21T15:13:15.015Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-21T15:13:15.015Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 1825 ms
+[2021-01-21T15:13:15.015Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-21T15:13:15.015Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.25.Final
+[2021-01-21T15:13:16.016Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-21T15:13:16.016Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-21T15:13:16.016Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-21T15:13:16.016Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2021-01-21T15:13:17.017Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-21T15:13:17.017Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T15:13:17.017Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-21T15:13:17.017Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-21T15:13:17.017Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8086"]
+[2021-01-21T15:13:17.017Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8086 (http) with context path ''
+[2021-01-21T15:13:17.017Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started AgentAPI in 10.014 seconds (JVM running for 11.155)
+[2021-01-21T15:13:39.039Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8086-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-21T15:13:39.039Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-21T15:13:39.039Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8086-exec-2] [547] [INFO ] Completed initialization in 2 ms
+[2021-01-21T15:16:14.014Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [SpringContextShutdownHook] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021-01-21T15:16:14.014Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [SpringContextShutdownHook] [651] [INFO ] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T15:16:14.014Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [350] [INFO ] HikariPool-1 - Shutdown initiated...
+[2021-01-21T15:16:14.014Z] [com.zaxxer.hikari.HikariDataSource] [SpringContextShutdownHook] [352] [INFO ] HikariPool-1 - Shutdown completed.
+[2021-01-21T15:17:14.014Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting AgentAPI using Java 15 on Mohans-MacBook-Pro.local with PID 1817 (/Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api/target/classes started by mohanbisoi in /Users/mohanbisoi/Documents/Development/Git-DevOps/com.techlearning.agentdetails.api)
+[2021-01-21T15:17:14.014Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-21T15:17:15.015Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-21T15:17:15.015Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+[2021-01-21T15:17:15.015Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021-01-21T15:17:15.015Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021-01-21T15:17:15.015Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-21T15:17:15.015Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-21T15:17:16.016Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-21T15:17:16.016Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 1300 ms
+[2021-01-21T15:17:16.016Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-21T15:17:16.016Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.25.Final
+[2021-01-21T15:17:16.016Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-21T15:17:16.016Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-21T15:17:17.017Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-21T15:17:17.017Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2021-01-21T15:17:17.017Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-21T15:17:17.017Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-21T15:17:17.017Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-21T15:17:17.017Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-21T15:17:17.017Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021-01-21T15:17:17.017Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021-01-21T15:17:17.017Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started AgentAPI in 8.574 seconds (JVM running for 9.503)
+[2021-01-21T15:17:48.048Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-21T15:17:48.048Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-21T15:17:48.048Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [547] [INFO ] Completed initialization in 2 ms
